@@ -1,0 +1,10 @@
+E:\VS2017\UnitTesting\Lab\Tests\bin\Debug\Tests.dll
+E:\VS2017\UnitTesting\Lab\Tests\bin\Debug\Tests.pdb
+E:\VS2017\UnitTesting\Lab\Tests\bin\Debug\nunit.framework.dll
+E:\VS2017\UnitTesting\Lab\Tests\bin\Debug\Skeleton.exe
+E:\VS2017\UnitTesting\Lab\Tests\bin\Debug\Skeleton.pdb
+E:\VS2017\UnitTesting\Lab\Tests\bin\Debug\Skeleton.exe.config
+E:\VS2017\UnitTesting\Lab\Tests\bin\Debug\nunit.framework.xml
+E:\VS2017\UnitTesting\Lab\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+E:\VS2017\UnitTesting\Lab\Tests\obj\Debug\Tests.dll
+E:\VS2017\UnitTesting\Lab\Tests\obj\Debug\Tests.pdb
